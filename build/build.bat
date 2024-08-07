@@ -1,0 +1,1 @@
+go build -o example_service.exe cmd\main.go
